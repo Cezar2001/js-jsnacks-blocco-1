@@ -13,5 +13,3 @@ for(let i = 0; i < userStringNumber.length; i++) {
 }
 
 console.log(sum);
-
-
